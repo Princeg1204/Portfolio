@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Driven by curiosity and data, I build AI and Machine Learning solutions that connect research with real-world use. My focus is on Computer Vision, Predictive Analytics, and Intelligent Systems. I combine analytical thinking, software engineering, and modern AI techniques to create scalable and impactful solutions.
         </p>
       </div>
     </div>
